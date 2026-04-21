@@ -4,8 +4,8 @@ import appReducer, { initialState } from '../reducer/AppReducer'
 import { fetchAppData } from '../services/api'
 
 const CREDENTIALS = {
-  studentId: 'E0223031',
-  password: '521883',
+  studentId: 'E0223032',
+  password: '610727',
   set: 'setA',
 }
 
